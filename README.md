@@ -1,4 +1,4 @@
-# [WebShell | Terminal Portfolio Website](https://qurashi-aqeel.vercel.app)
+# [QSH Webshell | Terminal Portfolio Website](https://qsh.netlify.app/)
 
 <div align="center">
   <img alt="banner" src="https://raw.githubusercontent.com/qurashi-aqeel/webshell/main/res/banner.png">
