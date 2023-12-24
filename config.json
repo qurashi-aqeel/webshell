@@ -1,29 +1,25 @@
 {
   "ascii": [
-    "███╗   ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗",
-    "████╗  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║",
-    "██╔██╗ ██║███████║███████╗███████║██╔██╗ ██║",
-    "██║╚██╗██║██╔══██║╚════██║██╔══██║██║╚██╗██║",
-    "██║ ╚████║██║  ██║███████║██║  ██║██║ ╚████║",
-    "╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝"
+    " █████╗ ██╗  ██╗███████╗███████╗██╗",
+    "██╔══██╗██║ ██╔╝██╔════╝██╔════╝██║",
+    "███████║█████═╝ █████╗  █████╗  ██║",
+    "██╔══██║██╔═██╗ ██╔══╝  ██╔══╝  ██║",
+    "██║  ██║██║ ╚██╗███████╗███████╗███████╗",
+    "╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/qurashi-aqeel/webshell",
   "social": {
-    "email": "nlm8841@nyu.edu",
-    "github": "nasan016",
-    "linkedin": "nathanielmacapinlac"
+    "email": "qurashiakeel786+webshell@gmail.com",
+    "github": "qurashi-aqeel",
+    "linkedin": "qurashi-akeel"
   },
-  "aboutGreeting": "Hi I'm Nathan. I'm a student at NYU Tandon.",
+  "aboutGreeting": "Hi I'm Qurashi Akeel. I'm a fullstack developer.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Portfolio",
+      "My portfolio with react and _ CMS.",
+      "https://qurashi-aqeel.vercel.app"
     ],
-    [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
-    ]
+    ["Shrompts", "Prompts for chatGPT.", "https://shrompts.vercel.app"]
   ]
 }
